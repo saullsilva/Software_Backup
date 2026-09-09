@@ -81,26 +81,6 @@ Software_Backup/
 └── README.md
 ```
 
-## 🚀 Como executar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/saullsilva/Software_Backup.git
-```
-
-Entre na pasta:
-
-```bash
-cd Software_Backup
-```
-
-Execute:
-
-```bash
-python3 main.py
-```
-
 ## 📦 Backup
 
 Os arquivos selecionados pelo usuário são armazenados em:
