@@ -106,5 +106,3 @@ O projeto ainda está em desenvolvimento. Entre as próximas funcionalidades pla
 Este projeto está sendo desenvolvido como um projeto acadêmico e de aprendizado, com foco em **Python, programação orientada a objetos, manipulação de arquivos, interfaces gráficas e controle de versão com Git**.
 
 ---
-
-⭐ Projeto em desenvolvimento — novas funcionalidades serão adicionadas conforme o desenvolvimento avançar.
