@@ -2,8 +2,6 @@
 
 Um software de backup desenvolvido em **Python** com o objetivo de facilitar a seleção e preservação de arquivos pessoais antes de uma formatação ou reinstalação do sistema.
 
-> 🚧 **Projeto em desenvolvimento (Beta)**
-
 ## 📌 Sobre o projeto
 
 O **Software Backup** analisa os arquivos do diretório pessoal do usuário, organiza-os por tipo e permite selecionar quais arquivos devem ser preservados.
